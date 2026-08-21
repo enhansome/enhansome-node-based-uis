@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 197018189,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T21:32:10Z",
+                "last_commit": "2026-08-21T11:53:12Z",
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38073
+                "stars": 38087
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 197018189,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T21:32:10Z",
+                "last_commit": "2026-08-21T11:53:12Z",
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38073
+                "stars": 38087
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-20T15:27:58Z",
                 "owner": "jacomyal",
                 "repo": "sigma.js",
-                "stars": 12140
+                "stars": 12143
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2024-08-01T08:49:24Z",
                 "owner": "jagenjo",
                 "repo": "litegraph.js",
-                "stars": 8108
+                "stars": 8107
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-07-14T08:09:05Z",
                 "owner": "bcakmakoglu",
                 "repo": "vue-flow",
-                "stars": 6790
+                "stars": 6792
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2022-12-12T09:06:30Z",
                 "owner": "antonioru",
                 "repo": "beautiful-react-diagrams",
-                "stars": 2722
+                "stars": 2721
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2026-07-29T04:34:54Z",
                 "owner": "swimlane",
                 "repo": "ngx-graph",
-                "stars": 993
+                "stars": 994
               }
             },
             {
@@ -254,7 +254,7 @@
                 "archived": false,
                 "id": 185778964,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T12:57:02Z",
+                "last_commit": "2026-08-21T16:14:35Z",
                 "owner": "kedro-org",
                 "repo": "kedro-viz",
                 "stars": 755
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-08T15:09:12Z",
                 "owner": "dagrejs",
                 "repo": "dagre",
-                "stars": 5766
+                "stars": 5767
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-13T11:39:06Z",
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2716
+                "stars": 2715
               }
             },
             {
@@ -384,7 +384,7 @@
                 "last_commit": "2023-12-30T16:50:14Z",
                 "owner": "d3",
                 "repo": "d3-force",
-                "stars": 1998
+                "stars": 1999
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2026-08-03T19:38:24Z",
                 "owner": "dagrejs",
                 "repo": "graphlib",
-                "stars": 1740
+                "stars": 1741
               }
             },
             {
@@ -501,10 +501,10 @@
                 "archived": false,
                 "id": 26066727,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:53:46Z",
+                "last_commit": "2026-08-21T14:16:08Z",
                 "owner": "mermaid-js",
                 "repo": "mermaid",
-                "stars": 89862
+                "stars": 89877
               }
             },
             {
@@ -577,7 +577,7 @@
                 "last_commit": "2026-03-29T08:34:57Z",
                 "owner": "thedmd",
                 "repo": "imgui-node-editor",
-                "stars": 4486
+                "stars": 4488
               }
             },
             {
@@ -592,7 +592,7 @@
                 "last_commit": "2026-07-31T16:56:51Z",
                 "owner": "paceholder",
                 "repo": "nodeeditor",
-                "stars": 3683
+                "stars": 3684
               }
             },
             {
@@ -607,7 +607,7 @@
                 "last_commit": "2026-05-13T10:07:48Z",
                 "owner": "Nelarius",
                 "repo": "imnodes",
-                "stars": 2480
+                "stars": 2479
               }
             }
           ],
@@ -648,7 +648,7 @@
             "last_commit": "2026-03-02T02:07:04Z",
             "owner": "Blazor-Diagrams",
             "repo": "Blazor.Diagrams",
-            "stars": 1416
+            "stars": 1415
           }
         },
         {
@@ -719,10 +719,10 @@
                 "archived": false,
                 "id": 400215964,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T18:59:36Z",
+                "last_commit": "2026-08-21T17:24:07Z",
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 39622
+                "stars": 39629
               }
             },
             {
@@ -734,7 +734,7 @@
                 "archived": false,
                 "id": 18950460,
                 "language": "Go",
-                "last_commit": "2026-08-19T18:30:07Z",
+                "last_commit": "2026-08-21T17:44:36Z",
                 "owner": "concourse",
                 "repo": "concourse",
                 "stars": 7892
@@ -801,10 +801,10 @@
                 "archived": false,
                 "id": 589831718,
                 "language": "Python",
-                "last_commit": "2026-08-20T19:36:56Z",
+                "last_commit": "2026-08-21T21:35:12Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 128644
+                "stars": 128829
               }
             },
             {
@@ -816,10 +816,10 @@
                 "archived": false,
                 "id": 1198539,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T12:11:10Z",
+                "last_commit": "2026-08-21T16:29:40Z",
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33371
+                "stars": 33381
               }
             }
           ],
@@ -841,7 +841,7 @@
                 "last_commit": "2026-08-18T17:35:36Z",
                 "owner": "AykutSarac",
                 "repo": "jsoncrack.com",
-                "stars": 44308
+                "stars": 44309
               }
             },
             {
@@ -856,7 +856,7 @@
                 "last_commit": "2026-08-16T12:33:31Z",
                 "owner": "node-red",
                 "repo": "node-red",
-                "stars": 23556
+                "stars": 23563
               }
             }
           ],
@@ -875,10 +875,10 @@
                 "archived": false,
                 "id": 589831718,
                 "language": "Python",
-                "last_commit": "2026-08-20T19:36:56Z",
+                "last_commit": "2026-08-21T21:35:12Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 128644
+                "stars": 128829
               }
             },
             {
@@ -893,7 +893,7 @@
                 "last_commit": "2026-07-31T20:27:38Z",
                 "owner": "chaiNNer-org",
                 "repo": "chaiNNer",
-                "stars": 5978
+                "stars": 5980
               }
             },
             {
@@ -905,7 +905,7 @@
                 "archived": false,
                 "id": 3395179,
                 "language": "HTML",
-                "last_commit": "2026-08-20T17:06:42Z",
+                "last_commit": "2026-08-20T21:56:33Z",
                 "owner": "DynamoDS",
                 "repo": "Dynamo",
                 "stars": 2014
@@ -938,7 +938,7 @@
                 "last_commit": "2026-06-08T15:19:55Z",
                 "owner": "alelievr",
                 "repo": "Mixture",
-                "stars": 1358
+                "stars": 1359
               }
             },
             {
@@ -950,7 +950,7 @@
                 "archived": false,
                 "id": 9043124,
                 "language": "Python",
-                "last_commit": "2026-08-20T01:12:05Z",
+                "last_commit": "2026-08-21T01:16:07Z",
                 "owner": "GafferHQ",
                 "repo": "gaffer",
                 "stars": 1087
@@ -968,7 +968,7 @@
                 "last_commit": "2026-08-08T13:35:40Z",
                 "owner": "polygonjs",
                 "repo": "polygonjs",
-                "stars": 810
+                "stars": 811
               }
             },
             {
@@ -1017,10 +1017,10 @@
                 "archived": false,
                 "id": 13586541,
                 "language": "C++",
-                "last_commit": "2026-08-20T15:39:48Z",
+                "last_commit": "2026-08-21T21:09:40Z",
                 "owner": "ossia",
                 "repo": "score",
-                "stars": 2049
+                "stars": 2051
               }
             },
             {
@@ -1057,7 +1057,7 @@
                 "last_commit": "2026-07-05T18:09:44Z",
                 "owner": "noflo",
                 "repo": "noflo",
-                "stars": 3551
+                "stars": 3552
               }
             },
             {
@@ -1072,7 +1072,7 @@
                 "last_commit": "2025-09-02T11:08:15Z",
                 "owner": "pedroCabrera",
                 "repo": "PyFlow",
-                "stars": 3196
+                "stars": 3195
               }
             }
           ],
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:38:51.424Z",
+    "last_updated": "2026-08-21T21:35:22.576Z",
     "original_repository": "xyflow/awesome-node-based-uis",
     "original_repository_id": 565900522,
     "original_repository_sha": "90f4f155f1aef9e805ac177b23bbf971853d10aa",
