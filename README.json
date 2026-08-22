@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T11:53:12Z",
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38087
+                "stars": 38092
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T11:53:12Z",
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38087
+                "stars": 38092
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2024-08-01T08:49:24Z",
                 "owner": "jagenjo",
                 "repo": "litegraph.js",
-                "stars": 8107
+                "stars": 8108
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-07-14T08:09:05Z",
                 "owner": "bcakmakoglu",
                 "repo": "vue-flow",
-                "stars": 6792
+                "stars": 6794
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-11T03:28:07Z",
                 "owner": "antvis",
                 "repo": "X6",
-                "stars": 6679
+                "stars": 6680
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2026-06-22T10:21:08Z",
                 "owner": "bytedance",
                 "repo": "flow-builder",
-                "stars": 696
+                "stars": 697
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-08T15:09:12Z",
                 "owner": "dagrejs",
                 "repo": "dagre",
-                "stars": 5767
+                "stars": 5768
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-13T11:39:06Z",
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2715
+                "stars": 2717
               }
             },
             {
@@ -504,7 +504,7 @@
                 "last_commit": "2026-08-21T14:16:08Z",
                 "owner": "mermaid-js",
                 "repo": "mermaid",
-                "stars": 89877
+                "stars": 89891
               }
             },
             {
@@ -577,7 +577,7 @@
                 "last_commit": "2026-03-29T08:34:57Z",
                 "owner": "thedmd",
                 "repo": "imgui-node-editor",
-                "stars": 4488
+                "stars": 4489
               }
             },
             {
@@ -633,7 +633,7 @@
             "last_commit": "2026-06-10T15:22:38Z",
             "owner": "miroiu",
             "repo": "nodify",
-            "stars": 1974
+            "stars": 1977
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-04-14T01:12:59Z",
             "owner": "Wouterdek",
             "repo": "NodeNetwork",
-            "stars": 960
+            "stars": 959
           }
         },
         {
@@ -722,7 +722,7 @@
                 "last_commit": "2026-08-21T17:24:07Z",
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 39629
+                "stars": 39636
               }
             },
             {
@@ -734,10 +734,10 @@
                 "archived": false,
                 "id": 18950460,
                 "language": "Go",
-                "last_commit": "2026-08-21T17:44:36Z",
+                "last_commit": "2026-08-21T21:47:39Z",
                 "owner": "concourse",
                 "repo": "concourse",
-                "stars": 7892
+                "stars": 7893
               }
             },
             {
@@ -801,10 +801,10 @@
                 "archived": false,
                 "id": 589831718,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:35:12Z",
+                "last_commit": "2026-08-22T20:47:50Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 128829
+                "stars": 128996
               }
             },
             {
@@ -816,10 +816,10 @@
                 "archived": false,
                 "id": 1198539,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T16:29:40Z",
+                "last_commit": "2026-08-22T02:19:08Z",
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33381
+                "stars": 33387
               }
             }
           ],
@@ -841,7 +841,7 @@
                 "last_commit": "2026-08-18T17:35:36Z",
                 "owner": "AykutSarac",
                 "repo": "jsoncrack.com",
-                "stars": 44309
+                "stars": 44320
               }
             },
             {
@@ -856,7 +856,7 @@
                 "last_commit": "2026-08-16T12:33:31Z",
                 "owner": "node-red",
                 "repo": "node-red",
-                "stars": 23563
+                "stars": 23568
               }
             }
           ],
@@ -875,10 +875,10 @@
                 "archived": false,
                 "id": 589831718,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:35:12Z",
+                "last_commit": "2026-08-22T20:47:50Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 128829
+                "stars": 128996
               }
             },
             {
@@ -893,7 +893,7 @@
                 "last_commit": "2026-07-31T20:27:38Z",
                 "owner": "chaiNNer-org",
                 "repo": "chaiNNer",
-                "stars": 5980
+                "stars": 5983
               }
             },
             {
@@ -923,7 +923,7 @@
                 "last_commit": "2023-11-23T00:33:30Z",
                 "owner": "protongraph",
                 "repo": "protongraph",
-                "stars": 1730
+                "stars": 1731
               }
             },
             {
@@ -950,7 +950,7 @@
                 "archived": false,
                 "id": 9043124,
                 "language": "Python",
-                "last_commit": "2026-08-21T01:16:07Z",
+                "last_commit": "2026-08-22T01:12:11Z",
                 "owner": "GafferHQ",
                 "repo": "gaffer",
                 "stars": 1087
@@ -1017,7 +1017,7 @@
                 "archived": false,
                 "id": 13586541,
                 "language": "C++",
-                "last_commit": "2026-08-21T21:09:40Z",
+                "last_commit": "2026-08-22T19:25:14Z",
                 "owner": "ossia",
                 "repo": "score",
                 "stars": 2051
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:35:22.576Z",
+    "last_updated": "2026-08-22T21:33:02.041Z",
     "original_repository": "xyflow/awesome-node-based-uis",
     "original_repository_id": 565900522,
     "original_repository_sha": "90f4f155f1aef9e805ac177b23bbf971853d10aa",
