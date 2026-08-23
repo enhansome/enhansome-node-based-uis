@@ -12,27 +12,27 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### Renderers
 
-* [React Flow](https://github.com/xyflow/xyflow) ⭐ 38,092 | 🐛 130 | 🌐 TypeScript | 📅 2026-08-21 - React library for rendering node-based UIs
-* [Svelte Flow](https://github.com/xyflow/xyflow) ⭐ 38,092 | 🐛 130 | 🌐 TypeScript | 📅 2026-08-21 - Svelte library for rendering node-based UIs
+* [React Flow](https://github.com/xyflow/xyflow) ⭐ 38,103 | 🐛 130 | 🌐 TypeScript | 📅 2026-08-21 - React library for rendering node-based UIs
+* [Svelte Flow](https://github.com/xyflow/xyflow) ⭐ 38,103 | 🐛 130 | 🌐 TypeScript | 📅 2026-08-21 - Svelte library for rendering node-based UIs
 * [rete](https://github.com/retejs/rete/) ⭐ 12,224 | 🐛 14 | 🌐 TypeScript | 📅 2026-07-24 - Framework for visual programming and node editors
-* [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,143 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-20 - Visualization framework for large graphs
+* [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,144 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-20 - Visualization framework for large graphs
 * [Flowy](https://github.com/alyssaxuu/flowy) ⭐ 12,115 | 🐛 59 | 🌐 JavaScript | 📅 2024-07-13 - Flowchart library
-* [litegraph.js](https://github.com/jagenjo/litegraph.js) ⭐ 8,108 | 🐛 146 | 🌐 JavaScript | 📅 2024-08-01 - A graph node engine and editor
-* [vue-flow](https://github.com/bcakmakoglu/vue-flow) ⭐ 6,794 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-14 - Flowchart component for Vue 3
-* [X6](https://github.com/antvis/X6) ⭐ 6,680 | 🐛 146 | 🌐 TypeScript | 📅 2026-08-11 - Diagramming library that uses SVG and HTML
+* [litegraph.js](https://github.com/jagenjo/litegraph.js) ⭐ 8,111 | 🐛 146 | 🌐 JavaScript | 📅 2024-08-01 - A graph node engine and editor
+* [vue-flow](https://github.com/bcakmakoglu/vue-flow) ⭐ 6,795 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-14 - Flowchart component for Vue 3
+* [X6](https://github.com/antvis/X6) ⭐ 6,681 | 🐛 147 | 🌐 TypeScript | 📅 2026-08-11 - Diagramming library that uses SVG and HTML
 * [butterfly](https://github.com/alibaba/butterfly) ⭐ 4,650 | 🐛 171 | 🌐 JavaScript | 📅 2024-05-20 - Renderer for interactive diagrams and flowcharts
 * [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) ⭐ 2,721 | 🐛 63 | 🌐 JavaScript | 📅 2022-12-12 - React components and hooks to build diagrams
 * [react-digraph](https://github.com/uber/react-digraph) ⭐ 2,642 | 🐛 91 | 🌐 JavaScript | 📅 2023-09-05 - A library for creating directed graph editors
 * [reaflow](https://github.com/reaviz/reaflow) ⭐ 2,493 | 🐛 89 | 🌐 TypeScript | 📅 2025-06-04 - React library for building workflow editors
-* [baklavajs](https://github.com/newcat/baklavajs) ⭐ 2,089 | 🐛 49 | 🌐 TypeScript | 📅 2026-06-17 - Graph/node editor for VueJs
+* [baklavajs](https://github.com/newcat/baklavajs) ⭐ 2,090 | 🐛 49 | 🌐 TypeScript | 📅 2026-06-17 - Graph/node editor for VueJs
 * [nodl](https://github.com/emilwidlund/nodl) ⭐ 1,749 | 🐛 6 | 🌐 TypeScript | 📅 2024-07-01 - Framework for computational node graphs
 * [Sequential Workflow Designer](https://github.com/nocode-js/sequential-workflow-designer) ⭐ 1,461 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-05 - Workflow builder component for any JavaScript framework
 * [ngx-graph](https://github.com/swimlane/ngx-graph) ⭐ 994 | 🐛 111 | 🌐 TypeScript | 📅 2026-07-29 - Graph visualization library for Angular
 * [kedro-viz](https://github.com/kedro-org/kedro-viz) ⭐ 755 | 🐛 65 | 🌐 JavaScript | 📅 2026-08-21 - Visualises Kedro data and machine-learning pipelines
 * [flow-builder](https://github.com/bytedance/flow-builder) ⭐ 697 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-22 - React-based renderer for workflows and process diagrams
-* [Foblex Flow](https://github.com/foblex/f-flow) ⭐ 520 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-16 - Angular library for rendering node-based UIs
-* [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) ⭐ 485 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-09 - An open source library to build node-based UI with Angular
-* [react-dag-editor](https://github.com/microsoft/react-dag-editor) ⭐ 220 | 🐛 12 | 🌐 TypeScript | 📅 2026-02-27 - React component to create graphic user interface
+* [Foblex Flow](https://github.com/foblex/f-flow) ⭐ 521 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-16 - Angular library for rendering node-based UIs
+* [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) ⭐ 486 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-09 - An open source library to build node-based UI with Angular
+* [react-dag-editor](https://github.com/microsoft/react-dag-editor) ⭐ 220 | 🐛 13 | 🌐 TypeScript | 📅 2026-02-27 - React component to create graphic user interface
 * [nice-dag](https://github.com/eBay/nice-dag) ⭐ 94 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-20 - Lightweight javascript library, which is used to present a DAG diagram
 * [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer with utilities and algorithms
 * [diagram-maker](https://awslabs.github.io/diagram-maker) - Interactive editor for any graph-like data
@@ -44,10 +44,10 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### Layouting
 
-* [dagrejs](https://github.com/dagrejs/dagre) ⭐ 5,768 | 🐛 172 | 🌐 TypeScript | 📅 2026-08-08 - Directed graph layout algorithms for Javascript
+* [dagrejs](https://github.com/dagrejs/dagre) ⭐ 5,770 | 🐛 172 | 🌐 TypeScript | 📅 2026-08-08 - Directed graph layout algorithms for Javascript
 * [elkjs](https://github.com/kieler/elkjs) ⭐ 2,717 | 🐛 98 | 🌐 JavaScript | 📅 2026-08-13 - A port of the Java ELK layouting library to Javascript
 * [d3-force](https://github.com/d3/d3-force) ⭐ 1,999 | 🐛 27 | 🌐 JavaScript | 📅 2023-12-30 - Library for creating interactive force directed graphs
-* [springy](https://github.com/dhotson/springy) ⭐ 1,884 | 🐛 29 | 🌐 JavaScript | 📅 2024-06-06 - Force directed graph layouts
+* [springy](https://github.com/dhotson/springy) ⭐ 1,883 | 🐛 29 | 🌐 JavaScript | 📅 2024-06-06 - Force directed graph layouts
 * [d3-hierarchy](https://github.com/d3/d3-hierarchy) ⭐ 1,269 | 🐛 26 | 🌐 JavaScript | 📅 2025-04-08 - Helpers and algorithms for working with hierarchical graphs
 * [d3-dag](https://erikbrinkman.github.io/d3-dag/) - D3 plugin to work with DAG data structures
 * [graphology-layout](https://graphology.github.io/standard-library/layout.html) - Layout algorithms
@@ -61,7 +61,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### Misc
 
-* [mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,891 | 🐛 1,718 | 🌐 TypeScript | 📅 2026-08-21 - Flowchart and sequence diagrams generation
+* [mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,906 | 🐛 1,723 | 🌐 TypeScript | 📅 2026-08-21 - Flowchart and sequence diagrams generation
 * [flume](https://github.com/chrisjpatty/flume) ⭐ 1,627 | 🐛 91 | 🌐 TypeScript | 📅 2026-04-12 - Business logic graph editor
 * [pintora](https://github.com/hikerpig/pintora) ⭐ 1,284 | 🐛 41 | 🌐 TypeScript | 📅 2026-08-19 - Text-to-diagrams library
 * [quick-erd](https://github.com/beenotung/quick-erd) ⭐ 62 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-11 - Generate entity-relationship diagrams (ERD) from text, and reverse engineer ERD text from live database
@@ -70,9 +70,9 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### Renderers
 
-* [node-editor](https://github.com/thedmd/imgui-node-editor) ⭐ 4,489 | 🐛 119 | 🌐 C++ | 📅 2026-03-29 - Node Editor built using dear imgui
+* [node-editor](https://github.com/thedmd/imgui-node-editor) ⭐ 4,490 | 🐛 119 | 🌐 C++ | 📅 2026-03-29 - Node Editor built using dear imgui
 * [nodeeditor](https://github.com/paceholder/nodeeditor) ⭐ 3,684 | 🐛 85 | 🌐 C++ | 📅 2026-07-31 - Dataflow programming framework
-* [imnodes](https://github.com/Nelarius/imnodes) ⭐ 2,479 | 🐛 61 | 🌐 C++ | 📅 2026-05-13 - Node editor for dear imgui
+* [imnodes](https://github.com/Nelarius/imnodes) ⭐ 2,480 | 🐛 61 | 🌐 C++ | 📅 2026-05-13 - Node editor for dear imgui
 * [graphviz](https://graphviz.org/) - Graph visualization software
 
 ## .NET Libraries
@@ -84,7 +84,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ## Rust Libraries
 
-* [egui-snarl](https://github.com/zakarumych/egui-snarl) ⭐ 588 | 🐛 44 | 🌐 Rust | 📅 2026-06-29 - Crate for creating and manipulating node-graph UIs
+* [egui-snarl](https://github.com/zakarumych/egui-snarl) ⭐ 589 | 🐛 44 | 🌐 Rust | 📅 2026-06-29 - Crate for creating and manipulating node-graph UIs
 * [egui\_node\_graph](https://github.com/setzer22/egui_node_graph) - Node applications using egui
 
 ## Swift Libraries
@@ -95,16 +95,16 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### Diagramming
 
-* [d2](https://github.com/terrastruct/d2) ⭐ 25,038 | 🐛 550 | 🌐 Go | 📅 2026-08-12 - Scripting language that turns text to diagrams
+* [d2](https://github.com/terrastruct/d2) ⭐ 25,045 | 🐛 550 | 🌐 Go | 📅 2026-08-23 - Scripting language that turns text to diagrams
 
 ## Applications
 
 ### Workflow & Automation
 
-* [novu](https://github.com/novuhq/novu) ⭐ 39,636 | 🐛 113 | 🌐 TypeScript | 📅 2026-08-21 - Notification infrastructure for developers \[OSS]
-* [Concourse CI](https://github.com/concourse/concourse/) ⭐ 7,893 | 🐛 79 | 🌐 Go | 📅 2026-08-21 - Container-based continuous thing-doer \[OSS]
+* [novu](https://github.com/novuhq/novu) ⭐ 39,648 | 🐛 108 | 🌐 TypeScript | 📅 2026-08-23 - Notification infrastructure for developers \[OSS]
+* [Concourse CI](https://github.com/concourse/concourse/) ⭐ 7,893 | 🐛 79 | 🌐 Go | 📅 2026-08-23 - Container-based continuous thing-doer \[OSS]
 * [Kuwala](https://github.com/kuwala-io/kuwala) ⭐ 808 | 🐛 22 | 🌐 JavaScript | 📅 2022-08-10 - Data Pipelines for BI analysists \[OSS]
-* [Tracardi](https://github.com/tracardi/tracardi) ⭐ 655 | 🐛 91 | 🌐 Python | 📅 2026-05-08 - Customer Journey Automation tool \[OSS]
+* [Tracardi](https://github.com/tracardi/tracardi) ⭐ 654 | 🐛 91 | 🌐 Python | 📅 2026-05-08 - Customer Journey Automation tool \[OSS]
 * [Proxeus](https://github.com/ProxeusApp/proxeus-core) ⚠️ Archived - Workflow builder for secure documents and more \[OSS]
 * [Benthos Studio](https://studio.benthos.dev/) - Visual editing for the Benthos stream processor
 * [Cables](https://cables.gl/) - Visual programming environment
@@ -129,8 +129,8 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### AI
 
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 128,996 | 🐛 4,659 | 🌐 Python | 📅 2026-08-22 - Stable Diffusion GUI
-* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,387 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-22 - Visualizer for machine learning models
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 129,337 | 🐛 4,674 | 🌐 Python | 📅 2026-08-23 - Stable Diffusion GUI
+* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,390 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-23 - Visualizer for machine learning models
 * [Cellulose](https://www.cellulose.ai) - Machine Learning Model visualizer and optimization tool
 * [CraftGen](https://craftgen.ai) - Visually build and orchestrate powerful AI agents.
 
@@ -150,8 +150,8 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### Data Processing
 
-* [jsoncrack](https://github.com/AykutSarac/jsoncrack.com) ⭐ 44,320 | 🐛 41 | 🌐 TypeScript | 📅 2026-08-18 - JSON data visualizer
-* [node-red](https://github.com/node-red/node-red) ⭐ 23,568 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-16 - Low-code programming for event-driven applications \[OSS]
+* [jsoncrack](https://github.com/AykutSarac/jsoncrack.com) ⭐ 44,326 | 🐛 41 | 🌐 TypeScript | 📅 2026-08-18 - JSON data visualizer
+* [node-red](https://github.com/node-red/node-red) ⭐ 23,571 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-16 - Low-code programming for event-driven applications \[OSS]
 * [Cascade](https://www.cascade.io/) - Data transformation and visualization
 * [CodeNect](https://flamendless.itch.io/codenect) - Visual Programming Software that transpiles to C
 * [Datablocks](https://datablocks.pro) - Data transformation and visualization
@@ -166,12 +166,12 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### 3D & Visuals
 
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 128,996 | 🐛 4,659 | 🌐 Python | 📅 2026-08-22 - Design and execute advanced Stable Diffusion pipelines for AI image generation \[OSS]
-* [Chainner](https://github.com/chaiNNer-org/chaiNNer) ⭐ 5,983 | 🐛 298 | 🌐 Python | 📅 2026-07-31 - Image processing GUI \[OSS]
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 129,337 | 🐛 4,674 | 🌐 Python | 📅 2026-08-23 - Design and execute advanced Stable Diffusion pipelines for AI image generation \[OSS]
+* [Chainner](https://github.com/chaiNNer-org/chaiNNer) ⭐ 5,988 | 🐛 298 | 🌐 Python | 📅 2026-07-31 - Image processing GUI \[OSS]
 * [Dynamo](https://github.com/DynamoDS/Dynamo) ⭐ 2,014 | 🐛 213 | 🌐 HTML | 📅 2026-08-20 - Open Source Graphical Programming for Design \[OSS]
 * [Protongraph](https://github.com/protongraph/protongraph) ⭐ 1,731 | 🐛 31 | 🌐 GDScript | 📅 2023-11-23 - Procedural content generation \[OSS]
 * [Mixture](https://github.com/alelievr/Mixture) ⭐ 1,359 | 🐛 18 | 🌐 C# | 📅 2026-06-08 - Unity plugin to create textures in realtime \[OSS]
-* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,087 | 🐛 368 | 🌐 Python | 📅 2026-08-22 - Application for lookdev, lighting and automation \[OSS]
+* [Gaffer](https://github.com/GafferHQ/gaffer) ⭐ 1,088 | 🐛 368 | 🌐 Python | 📅 2026-08-23 - Application for lookdev, lighting and automation \[OSS]
 * [Polygonjs](https://github.com/polygonjs/polygonjs) ⭐ 811 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-08 - WebGL design tool \[OSS]
 * [Nodebox](https://github.com/nodebox/nodebox) ⭐ 790 | 🐛 175 | 🌐 Java | 📅 2026-08-13 - App for visualization and generative design \[OSS]
 * [Cascade](https://github.com/ttddee/Cascade) ⚠️ Archived - Image editor \[OSS]
@@ -194,7 +194,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### Audio
 
-* [Ossia score](https://github.com/ossia/score) ⭐ 2,051 | 🐛 490 | 🌐 C++ | 📅 2026-08-22 - Sequencer for audio-visual artists \[OSS]
+* [Ossia score](https://github.com/ossia/score) ⭐ 2,051 | 🐛 490 | 🌐 C++ | 📅 2026-08-23 - Sequencer for audio-visual artists \[OSS]
 * [Axiom](https://github.com/monadgroup/axiom) ⚠️ Archived - Realtime audio synthesizer \[OSS]
 * [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Audio recording and routing for macOS
 * [Audulus](https://audulus.com) - Modular synthesizer and DSP environment
@@ -220,4 +220,4 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
