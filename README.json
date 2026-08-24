@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 197018189,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T11:53:12Z",
+                "last_commit": "2026-08-24T13:42:24Z",
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38103
+                "stars": 38119
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 197018189,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T11:53:12Z",
+                "last_commit": "2026-08-24T13:42:24Z",
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38103
+                "stars": 38119
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-07-14T08:09:05Z",
                 "owner": "bcakmakoglu",
                 "repo": "vue-flow",
-                "stars": 6795
+                "stars": 6796
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-11T03:28:07Z",
                 "owner": "antvis",
                 "repo": "X6",
-                "stars": 6681
+                "stars": 6682
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2026-07-05T16:57:55Z",
                 "owner": "nocode-js",
                 "repo": "sequential-workflow-designer",
-                "stars": 1461
+                "stars": 1462
               }
             },
             {
@@ -254,7 +254,7 @@
                 "archived": false,
                 "id": 185778964,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T16:14:35Z",
+                "last_commit": "2026-08-24T10:55:53Z",
                 "owner": "kedro-org",
                 "repo": "kedro-viz",
                 "stars": 755
@@ -317,7 +317,7 @@
                 "last_commit": "2026-02-27T05:00:56Z",
                 "owner": "microsoft",
                 "repo": "react-dag-editor",
-                "stars": 220
+                "stars": 221
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-08T15:09:12Z",
                 "owner": "dagrejs",
                 "repo": "dagre",
-                "stars": 5770
+                "stars": 5771
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-13T11:39:06Z",
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2717
+                "stars": 2721
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2026-07-21T07:58:52Z",
                 "owner": "graphology",
                 "repo": "graphology",
-                "stars": 1730
+                "stars": 1731
               }
             },
             {
@@ -501,10 +501,10 @@
                 "archived": false,
                 "id": 26066727,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:16:08Z",
+                "last_commit": "2026-08-24T13:04:42Z",
                 "owner": "mermaid-js",
                 "repo": "mermaid",
-                "stars": 89906
+                "stars": 89917
               }
             },
             {
@@ -633,7 +633,7 @@
             "last_commit": "2026-06-10T15:22:38Z",
             "owner": "miroiu",
             "repo": "nodify",
-            "stars": 1977
+            "stars": 1978
           }
         },
         {
@@ -709,6 +709,55 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Flow",
+          "description": "Swift Package Manager-based node graph editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 530761253,
+            "language": "Swift",
+            "last_commit": "2024-04-24T05:28:36Z",
+            "owner": "AudioKit",
+            "repo": "Flow",
+            "stars": 400
+          }
+        }
+      ],
+      "title": "Swift Libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "d2",
+              "description": "Scripting language that turns text to diagrams",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 533087958,
+                "language": "Go",
+                "last_commit": "2026-08-23T20:37:52Z",
+                "owner": "d2lang",
+                "repo": "d2",
+                "stars": 25052
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Diagramming"
+        }
+      ],
+      "title": "Go Libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -719,10 +768,10 @@
                 "archived": false,
                 "id": 400215964,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T17:05:59Z",
+                "last_commit": "2026-08-24T13:54:36Z",
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 39648
+                "stars": 39659
               }
             },
             {
@@ -734,7 +783,7 @@
                 "archived": false,
                 "id": 18950460,
                 "language": "Go",
-                "last_commit": "2026-08-23T17:11:58Z",
+                "last_commit": "2026-08-24T13:48:08Z",
                 "owner": "concourse",
                 "repo": "concourse",
                 "stars": 7893
@@ -801,10 +850,10 @@
                 "archived": false,
                 "id": 589831718,
                 "language": "Python",
-                "last_commit": "2026-08-23T20:02:12Z",
+                "last_commit": "2026-08-24T10:03:19Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 129337
+                "stars": 129713
               }
             },
             {
@@ -816,10 +865,10 @@
                 "archived": false,
                 "id": 1198539,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T20:19:26Z",
+                "last_commit": "2026-08-24T12:22:40Z",
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33390
+                "stars": 33395
               }
             }
           ],
@@ -841,7 +890,7 @@
                 "last_commit": "2026-08-18T17:35:36Z",
                 "owner": "AykutSarac",
                 "repo": "jsoncrack.com",
-                "stars": 44326
+                "stars": 44331
               }
             },
             {
@@ -856,7 +905,7 @@
                 "last_commit": "2026-08-16T12:33:31Z",
                 "owner": "node-red",
                 "repo": "node-red",
-                "stars": 23571
+                "stars": 23572
               }
             }
           ],
@@ -875,10 +924,10 @@
                 "archived": false,
                 "id": 589831718,
                 "language": "Python",
-                "last_commit": "2026-08-23T20:02:12Z",
+                "last_commit": "2026-08-24T10:03:19Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 129337
+                "stars": 129713
               }
             },
             {
@@ -893,7 +942,7 @@
                 "last_commit": "2026-07-31T20:27:38Z",
                 "owner": "chaiNNer-org",
                 "repo": "chaiNNer",
-                "stars": 5988
+                "stars": 5990
               }
             },
             {
@@ -905,10 +954,10 @@
                 "archived": false,
                 "id": 3395179,
                 "language": "HTML",
-                "last_commit": "2026-08-20T21:56:33Z",
+                "last_commit": "2026-08-24T07:24:47Z",
                 "owner": "DynamoDS",
                 "repo": "Dynamo",
-                "stars": 2014
+                "stars": 2013
               }
             },
             {
@@ -950,7 +999,7 @@
                 "archived": false,
                 "id": 9043124,
                 "language": "Python",
-                "last_commit": "2026-08-23T01:18:09Z",
+                "last_commit": "2026-08-24T01:15:38Z",
                 "owner": "GafferHQ",
                 "repo": "gaffer",
                 "stars": 1088
@@ -1017,10 +1066,10 @@
                 "archived": false,
                 "id": 13586541,
                 "language": "C++",
-                "last_commit": "2026-08-23T20:14:15Z",
+                "last_commit": "2026-08-24T13:39:27Z",
                 "owner": "ossia",
                 "repo": "score",
-                "stars": 2051
+                "stars": 2052
               }
             },
             {
@@ -1072,7 +1121,7 @@
                 "last_commit": "2025-09-02T11:08:15Z",
                 "owner": "pedroCabrera",
                 "repo": "PyFlow",
-                "stars": 3195
+                "stars": 3196
               }
             }
           ],
@@ -1085,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:32:47.845Z",
+    "last_updated": "2026-08-24T13:58:46.139Z",
     "original_repository": "xyflow/awesome-node-based-uis",
     "original_repository_id": 565900522,
     "original_repository_sha": "90f4f155f1aef9e805ac177b23bbf971853d10aa",
