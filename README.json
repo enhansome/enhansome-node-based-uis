@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-27T18:09:24Z",
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38173
+                "stars": 38182
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -33,7 +33,7 @@
                 "last_commit": "2026-08-27T18:09:24Z",
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38173
+                "stars": 38182
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -65,7 +65,7 @@
                 "last_commit": "2026-08-20T15:27:58Z",
                 "owner": "jacomyal",
                 "repo": "sigma.js",
-                "stars": 12147
+                "stars": 12148
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -81,7 +81,7 @@
                 "last_commit": "2024-07-13T17:01:28Z",
                 "owner": "alyssaxuu",
                 "repo": "flowy",
-                "stars": 12116
+                "stars": 12117
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -97,7 +97,7 @@
                 "last_commit": "2024-08-01T08:49:24Z",
                 "owner": "jagenjo",
                 "repo": "litegraph.js",
-                "stars": 8117
+                "stars": 8118
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -113,7 +113,7 @@
                 "last_commit": "2026-07-14T08:09:05Z",
                 "owner": "bcakmakoglu",
                 "repo": "vue-flow",
-                "stars": 6808
+                "stars": 6811
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -337,7 +337,7 @@
                 "last_commit": "2026-08-24T16:01:58Z",
                 "owner": "microsoft",
                 "repo": "react-dag-editor",
-                "stars": 221
+                "stars": 222
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -376,7 +376,7 @@
                 "last_commit": "2026-08-08T15:09:12Z",
                 "owner": "dagrejs",
                 "repo": "dagre",
-                "stars": 5777
+                "stars": 5778
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -392,7 +392,7 @@
                 "last_commit": "2026-08-13T11:39:06Z",
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2732
+                "stars": 2735
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -532,10 +532,10 @@
                 "archived": false,
                 "id": 26066727,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T18:31:18Z",
+                "last_commit": "2026-08-28T20:19:25Z",
                 "owner": "mermaid-js",
                 "repo": "mermaid",
-                "stars": 89965
+                "stars": 89974
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -612,7 +612,7 @@
                 "last_commit": "2026-03-29T08:34:57Z",
                 "owner": "thedmd",
                 "repo": "imgui-node-editor",
-                "stars": 4495
+                "stars": 4497
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -671,7 +671,7 @@
             "last_commit": "2026-06-10T15:22:38Z",
             "owner": "miroiu",
             "repo": "nodify",
-            "stars": 1979
+            "stars": 1980
           },
           "first_seen": "2026-08-28T05:20:33.220Z"
         },
@@ -784,10 +784,10 @@
                 "archived": false,
                 "id": 533087958,
                 "language": "Go",
-                "last_commit": "2026-08-28T04:26:42Z",
+                "last_commit": "2026-08-29T02:36:30Z",
                 "owner": "d2lang",
                 "repo": "d2",
-                "stars": 25093
+                "stars": 25094
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -813,10 +813,10 @@
                 "archived": false,
                 "id": 400215964,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:21:27Z",
+                "last_commit": "2026-08-28T15:16:44Z",
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 39677
+                "stars": 39680
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -829,10 +829,10 @@
                 "archived": false,
                 "id": 18950460,
                 "language": "Go",
-                "last_commit": "2026-08-28T01:05:30Z",
+                "last_commit": "2026-08-29T01:50:14Z",
                 "owner": "concourse",
                 "repo": "concourse",
-                "stars": 7892
+                "stars": 7893
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -900,10 +900,10 @@
                 "archived": false,
                 "id": 589831718,
                 "language": "Python",
-                "last_commit": "2026-08-28T04:04:31Z",
+                "last_commit": "2026-08-29T00:43:25Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 130347
+                "stars": 130483
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -916,10 +916,10 @@
                 "archived": false,
                 "id": 1198539,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T23:39:52Z",
+                "last_commit": "2026-08-28T17:15:34Z",
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33417
+                "stars": 33420
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -942,7 +942,7 @@
                 "last_commit": "2026-08-18T17:35:36Z",
                 "owner": "AykutSarac",
                 "repo": "jsoncrack.com",
-                "stars": 44337
+                "stars": 44344
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -958,7 +958,7 @@
                 "last_commit": "2026-08-27T08:26:32Z",
                 "owner": "node-red",
                 "repo": "node-red",
-                "stars": 23593
+                "stars": 23596
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -978,10 +978,10 @@
                 "archived": false,
                 "id": 589831718,
                 "language": "Python",
-                "last_commit": "2026-08-28T04:04:31Z",
+                "last_commit": "2026-08-29T00:43:25Z",
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 130347
+                "stars": 130483
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -997,7 +997,7 @@
                 "last_commit": "2026-07-31T20:27:38Z",
                 "owner": "chaiNNer-org",
                 "repo": "chaiNNer",
-                "stars": 5996
+                "stars": 5998
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -1013,7 +1013,7 @@
                 "last_commit": "2026-08-27T22:48:18Z",
                 "owner": "DynamoDS",
                 "repo": "Dynamo",
-                "stars": 2014
+                "stars": 2016
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -1058,7 +1058,7 @@
                 "archived": false,
                 "id": 9043124,
                 "language": "Python",
-                "last_commit": "2026-08-27T21:33:34Z",
+                "last_commit": "2026-08-28T23:22:08Z",
                 "owner": "GafferHQ",
                 "repo": "gaffer",
                 "stars": 1089
@@ -1129,7 +1129,7 @@
                 "archived": false,
                 "id": 13586541,
                 "language": "C++",
-                "last_commit": "2026-08-28T04:48:53Z",
+                "last_commit": "2026-08-29T02:46:35Z",
                 "owner": "ossia",
                 "repo": "score",
                 "stars": 2056
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:20:33.220Z",
+    "last_updated": "2026-08-29T03:09:06.543Z",
     "original_repository_info": {
       "archived": false,
       "id": 565900522,
