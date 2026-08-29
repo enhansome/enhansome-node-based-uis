@@ -12,14 +12,14 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### Renderers
 
-* [React Flow](https://github.com/xyflow/xyflow) ⭐ 38,182 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-27 - React library for rendering node-based UIs
-* [Svelte Flow](https://github.com/xyflow/xyflow) ⭐ 38,182 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-27 - Svelte library for rendering node-based UIs
+* [React Flow](https://github.com/xyflow/xyflow) ⭐ 38,183 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-27 - React library for rendering node-based UIs
+* [Svelte Flow](https://github.com/xyflow/xyflow) ⭐ 38,183 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-27 - Svelte library for rendering node-based UIs
 * [rete](https://github.com/retejs/rete/) ⭐ 12,228 | 🐛 14 | 🌐 TypeScript | 📅 2026-07-24 - Framework for visual programming and node editors
-* [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,148 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-20 - Visualization framework for large graphs
+* [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,149 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-20 - Visualization framework for large graphs
 * [Flowy](https://github.com/alyssaxuu/flowy) ⭐ 12,117 | 🐛 59 | 🌐 JavaScript | 📅 2024-07-13 - Flowchart library
 * [litegraph.js](https://github.com/jagenjo/litegraph.js) ⭐ 8,118 | 🐛 146 | 🌐 JavaScript | 📅 2024-08-01 - A graph node engine and editor
-* [vue-flow](https://github.com/bcakmakoglu/vue-flow) ⭐ 6,811 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-14 - Flowchart component for Vue 3
-* [X6](https://github.com/antvis/X6) ⭐ 6,685 | 🐛 147 | 🌐 TypeScript | 📅 2026-08-11 - Diagramming library that uses SVG and HTML
+* [vue-flow](https://github.com/bcakmakoglu/vue-flow) ⭐ 6,812 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-14 - Flowchart component for Vue 3
+* [X6](https://github.com/antvis/X6) ⭐ 6,684 | 🐛 147 | 🌐 TypeScript | 📅 2026-08-11 - Diagramming library that uses SVG and HTML
 * [butterfly](https://github.com/alibaba/butterfly) ⭐ 4,649 | 🐛 171 | 🌐 JavaScript | 📅 2024-05-20 - Renderer for interactive diagrams and flowcharts
 * [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) ⭐ 2,721 | 🐛 63 | 🌐 JavaScript | 📅 2022-12-12 - React components and hooks to build diagrams
 * [react-digraph](https://github.com/uber/react-digraph) ⭐ 2,642 | 🐛 91 | 🌐 JavaScript | 📅 2023-09-05 - A library for creating directed graph editors
@@ -129,8 +129,8 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### AI
 
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 130,483 | 🐛 4,731 | 🌐 Python | 📅 2026-08-29 - Stable Diffusion GUI
-* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,420 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-28 - Visualizer for machine learning models
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 130,495 | 🐛 4,731 | 🌐 Python | 📅 2026-08-29 - Stable Diffusion GUI
+* [Netron](https://github.com/lutzroeder/netron) ⭐ 33,421 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-28 - Visualizer for machine learning models
 * [Cellulose](https://www.cellulose.ai) - Machine Learning Model visualizer and optimization tool
 * [CraftGen](https://craftgen.ai) - Visually build and orchestrate powerful AI agents.
 
@@ -166,7 +166,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### 3D & Visuals
 
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 130,483 | 🐛 4,731 | 🌐 Python | 📅 2026-08-29 - Design and execute advanced Stable Diffusion pipelines for AI image generation \[OSS]
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 130,495 | 🐛 4,731 | 🌐 Python | 📅 2026-08-29 - Design and execute advanced Stable Diffusion pipelines for AI image generation \[OSS]
 * [Chainner](https://github.com/chaiNNer-org/chaiNNer) ⭐ 5,998 | 🐛 299 | 🌐 Python | 📅 2026-07-31 - Image processing GUI \[OSS]
 * [Dynamo](https://github.com/DynamoDS/Dynamo) ⭐ 2,016 | 🐛 212 | 🌐 HTML | 📅 2026-08-27 - Open Source Graphical Programming for Design \[OSS]
 * [Protongraph](https://github.com/protongraph/protongraph) ⭐ 1,734 | 🐛 31 | 🌐 GDScript | 📅 2023-11-23 - Procedural content generation \[OSS]

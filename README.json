@@ -12,12 +12,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+                "homepage": "https://xyflow.com",
                 "id": 197018189,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T18:09:24Z",
+                "open_issues": 129,
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38182
+                "stars": 38183,
+                "topics": [
+                  "flowchart",
+                  "graph",
+                  "javascript",
+                  "node-based-ui",
+                  "react",
+                  "react-flow",
+                  "svelte",
+                  "svelte-flow",
+                  "typescript",
+                  "typescript-library",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -28,12 +45,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+                "homepage": "https://xyflow.com",
                 "id": 197018189,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T18:09:24Z",
+                "open_issues": 129,
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38182
+                "stars": 38183,
+                "topics": [
+                  "flowchart",
+                  "graph",
+                  "javascript",
+                  "node-based-ui",
+                  "react",
+                  "react-flow",
+                  "svelte",
+                  "svelte-flow",
+                  "typescript",
+                  "typescript-library",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -44,12 +78,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript framework for visual programming",
+                "homepage": "https://retejs.org",
                 "id": 83434501,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-24T04:24:16Z",
+                "open_issues": 14,
                 "owner": "retejs",
                 "repo": "rete",
-                "stars": 12228
+                "stars": 12228,
+                "topics": [
+                  "dataflow-programming",
+                  "flow-based-programming",
+                  "graph-editor",
+                  "node-editor",
+                  "standwithukraine",
+                  "visual-programming"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -60,12 +106,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript library aimed at visualizing graphs of thousands of nodes and edges",
+                "homepage": "https://www.sigmajs.org/",
                 "id": 3687489,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T15:27:58Z",
+                "open_issues": 14,
                 "owner": "jacomyal",
                 "repo": "sigma.js",
-                "stars": 12148
+                "stars": 12149,
+                "topics": [
+                  "data-visualization",
+                  "graph",
+                  "graph-drawing",
+                  "graph-drawing-framework",
+                  "graphs",
+                  "javascript",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -76,12 +135,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The minimal javascript library to create flowcharts ✨",
+                "homepage": null,
                 "id": 224444129,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-13T17:01:28Z",
+                "open_issues": 59,
                 "owner": "alyssaxuu",
                 "repo": "flowy",
-                "stars": 12117
+                "stars": 12117,
+                "topics": [
+                  "diagrams",
+                  "drag-and-drop",
+                  "engine",
+                  "flowchart",
+                  "javascript",
+                  "javascript-library",
+                  "marketing",
+                  "marketing-automation",
+                  "minimal",
+                  "zapier"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -92,12 +167,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.",
+                "homepage": null,
                 "id": 13129587,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-01T08:49:24Z",
+                "open_issues": 146,
                 "owner": "jagenjo",
                 "repo": "litegraph.js",
-                "stars": 8118
+                "stars": 8118,
+                "topics": [
+                  "blueprints",
+                  "canvas2d",
+                  "editor",
+                  "graph",
+                  "graphs",
+                  "javascript",
+                  "modular",
+                  "nocode",
+                  "node-graph",
+                  "nodejs",
+                  "nodes",
+                  "visual",
+                  "visual-programming",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -108,12 +203,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.",
+                "homepage": "https://vueflow.dev",
                 "id": 382114726,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-14T08:09:05Z",
+                "open_issues": 19,
                 "owner": "bcakmakoglu",
                 "repo": "vue-flow",
-                "stars": 6811
+                "stars": 6812,
+                "topics": [
+                  "diagrams",
+                  "flow",
+                  "flowchart",
+                  "javascript",
+                  "turborepo",
+                  "typescript",
+                  "vite",
+                  "vitepress",
+                  "vue",
+                  "vue3"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -124,12 +235,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+                "homepage": "https://x6.antv.antgroup.com",
                 "id": 221622743,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T03:28:07Z",
+                "open_issues": 147,
                 "owner": "antvis",
                 "repo": "X6",
-                "stars": 6685
+                "stars": 6684,
+                "topics": [
+                  "antv",
+                  "dag",
+                  "diagram",
+                  "diagramming",
+                  "erd",
+                  "erdiagram",
+                  "flowchart",
+                  "graph",
+                  "graph-editor",
+                  "javascript",
+                  "javascript-diagramming-library",
+                  "svg",
+                  "typescript",
+                  "uml-diagram"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -140,12 +271,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)",
+                "homepage": "https://butterfly-dag.gitee.io/butterfly-dag/home",
                 "id": 155510481,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-20T07:24:26Z",
+                "open_issues": 171,
                 "owner": "alibaba",
                 "repo": "butterfly",
-                "stars": 4649
+                "stars": 4649,
+                "topics": [
+                  "bpmn",
+                  "butterfly",
+                  "connectivity",
+                  "dag",
+                  "diagram",
+                  "diagramming",
+                  "edge",
+                  "flow",
+                  "flow-dag",
+                  "flow-layout",
+                  "flowchart",
+                  "mindmap",
+                  "react",
+                  "svg",
+                  "tree",
+                  "treemap-diagram",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -156,12 +310,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💎 A collection of lightweight React components and hooks to build diagrams with ease 💎",
+                "homepage": "https://antonioru.github.io/beautiful-react-diagrams/",
                 "id": 246423029,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-12T09:06:30Z",
+                "open_issues": 63,
                 "owner": "antonioru",
                 "repo": "beautiful-react-diagrams",
-                "stars": 2721
+                "stars": 2721,
+                "topics": [
+                  "diagram",
+                  "diagrams",
+                  "flowchart-diagrams",
+                  "flowcharts",
+                  "hooks",
+                  "javascript",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -172,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for creating directed graph editors",
+                "homepage": null,
                 "id": 73456643,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-05T19:29:38Z",
+                "open_issues": 91,
                 "owner": "uber",
                 "repo": "react-digraph",
-                "stars": 2642
+                "stars": 2642,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -188,12 +360,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.",
+                "homepage": "https://reaflow.dev",
                 "id": 308024078,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-04T09:08:50Z",
+                "open_issues": 89,
                 "owner": "reaviz",
                 "repo": "reaflow",
-                "stars": 2493
+                "stars": 2493,
+                "topics": [
+                  "diagrams",
+                  "elkjs",
+                  "flowchart",
+                  "hacktoberfest",
+                  "node-editor",
+                  "react",
+                  "reactjs",
+                  "visualizations",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -204,12 +391,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph / node editor in the browser using VueJS",
+                "homepage": "http://baklava.tech",
                 "id": 159969526,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-17T07:24:52Z",
+                "open_issues": 49,
                 "owner": "newcat",
                 "repo": "baklavajs",
-                "stars": 2091
+                "stars": 2091,
+                "topics": [
+                  "dataflow",
+                  "dataflow-programming",
+                  "editor",
+                  "flow",
+                  "flow-based-programming",
+                  "flow-control",
+                  "graph",
+                  "node",
+                  "node-editor",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -220,12 +423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for computational node graphs.",
+                "homepage": "https://usenodl.dev",
                 "id": 587370130,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-01T22:17:29Z",
+                "open_issues": 6,
                 "owner": "emilwidlund",
                 "repo": "nodl",
-                "stars": 1749
+                "stars": 1749,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -236,12 +444,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com",
+                "homepage": "https://nocode-js.com/",
                 "id": 493427777,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-05T16:57:55Z",
+                "open_issues": 1,
                 "owner": "nocode-js",
                 "repo": "sequential-workflow-designer",
-                "stars": 1463
+                "stars": 1463,
+                "topics": [
+                  "agent-builder",
+                  "agentflow",
+                  "ai-designer",
+                  "automation",
+                  "component",
+                  "designer",
+                  "flow-based-programming",
+                  "flowchart",
+                  "flowcharts",
+                  "javascript",
+                  "lowcode",
+                  "no-code",
+                  "nocode",
+                  "reactjs",
+                  "typescript",
+                  "workflow",
+                  "workflow-automation",
+                  "workflow-builder",
+                  "workflow-designer"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -252,12 +485,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph visualization library for angular",
+                "homepage": "https://swimlane.github.io/ngx-graph",
                 "id": 82952002,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-29T04:34:54Z",
+                "open_issues": 111,
                 "owner": "swimlane",
                 "repo": "ngx-graph",
-                "stars": 994
+                "stars": 994,
+                "topics": [
+                  "angular",
+                  "angular2",
+                  "chart",
+                  "dag",
+                  "data-viz",
+                  "directed-graph",
+                  "svg",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -268,12 +515,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualise your Kedro data and machine-learning pipelines and track your experiments. ",
+                "homepage": "https://demo.kedro.org",
                 "id": 185778964,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T01:44:06Z",
+                "open_issues": 68,
                 "owner": "kedro-org",
                 "repo": "kedro-viz",
-                "stars": 758
+                "stars": 758,
+                "topics": [
+                  "data-visualization",
+                  "experiment-tracking",
+                  "hacktoberfest",
+                  "kedro",
+                  "kedro-plugin",
+                  "python",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -284,12 +544,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly customizable streaming flow builder.",
+                "homepage": "https://bytedance.github.io/flow-builder",
                 "id": 414945027,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-22T10:21:08Z",
+                "open_issues": 7,
                 "owner": "bytedance",
                 "repo": "flow-builder",
-                "stars": 697
+                "stars": 697,
+                "topics": [
+                  "builder",
+                  "flow",
+                  "process",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -300,12 +570,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Angular-native node editor library for production workflow builders, AI pipelines, and interactive diagram editors. MIT licensed.",
+                "homepage": "https://flow.foblex.com/",
                 "id": 770521316,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T20:21:54Z",
+                "open_issues": 10,
                 "owner": "Foblex",
                 "repo": "f-flow",
-                "stars": 522
+                "stars": 522,
+                "topics": [
+                  "angular",
+                  "angular-components",
+                  "angular-library",
+                  "diagram",
+                  "diagram-editor",
+                  "drag-and-drop",
+                  "flow",
+                  "flow-chart",
+                  "flowchart",
+                  "graph",
+                  "graph-editor",
+                  "javascript",
+                  "no-code",
+                  "node-based-ui",
+                  "node-editor",
+                  "typescript",
+                  "visual-programming",
+                  "workflow",
+                  "workflow-builder",
+                  "workflow-editor"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -316,12 +612,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source library to build node-based UI with Angular 16+",
+                "homepage": "https://www.ngx-vflow.org/",
                 "id": 729429259,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-09T11:06:51Z",
+                "open_issues": 33,
                 "owner": "artem-mangilev",
                 "repo": "ngx-vflow",
-                "stars": 487
+                "stars": 487,
+                "topics": [
+                  "angular",
+                  "drag-and-drop",
+                  "flow",
+                  "flowchart",
+                  "graph",
+                  "javascript",
+                  "node-based-ui",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -332,12 +642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React component to create graphic user interface with:  - draggable nodes with ports and edges on a directed graph editor. - extensibility to customize the widgets or behaviors. - accessbility and testability support",
+                "homepage": "https://microsoft.github.io/react-dag-editor/",
                 "id": 370518630,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T16:01:58Z",
+                "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "react-dag-editor",
-                "stars": 222
+                "stars": 222,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -348,12 +663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nice-dag is a lightweight javascript library, which is used to present a DAG diagram.",
+                "homepage": "https://opensource.ebay.com/nice-dag/examples/react/index.html",
                 "id": 526398649,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-20T02:42:44Z",
+                "open_issues": 7,
                 "owner": "eBay",
                 "repo": "nice-dag",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -371,12 +691,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Directed graph layout for JavaScript",
+                "homepage": null,
                 "id": 5977187,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T15:09:12Z",
+                "open_issues": 174,
                 "owner": "dagrejs",
                 "repo": "dagre",
-                "stars": 5778
+                "stars": 5778,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -387,12 +712,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ELK's layout algorithms for JavaScript",
+                "homepage": null,
                 "id": 96763449,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T11:39:06Z",
+                "open_issues": 98,
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2735
+                "stars": 2735,
+                "topics": [
+                  "diagram-layout",
+                  "graph-layout",
+                  "layered-layout",
+                  "layout-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -403,12 +738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Force-directed graph layout using velocity Verlet integration.",
+                "homepage": "https://d3js.org/d3-force",
                 "id": 45493905,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-12-30T16:50:14Z",
+                "open_issues": 27,
                 "owner": "d3",
                 "repo": "d3-force",
-                "stars": 1999
+                "stars": 1999,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -419,12 +759,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A force directed graph layout algorithm in JavaScript",
+                "homepage": "http://getspringy.com",
                 "id": 612950,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-06T21:13:41Z",
+                "open_issues": 29,
                 "owner": "dhotson",
                 "repo": "springy",
-                "stars": 1883
+                "stars": 1883,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -435,12 +780,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D layout algorithms for visualizing hierarchical data.",
+                "homepage": "https://d3js.org/d3-hierarchy",
                 "id": 39152400,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2025-04-08T07:14:43Z",
+                "open_issues": 26,
                 "owner": "d3",
                 "repo": "d3-hierarchy",
-                "stars": 1269
+                "stars": 1269,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -458,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A directed multi-graph library for JavaScript",
+                "homepage": null,
                 "id": 12338026,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-03T19:38:24Z",
+                "open_issues": 29,
                 "owner": "dagrejs",
                 "repo": "graphlib",
-                "stars": 1742
+                "stars": 1742,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -474,12 +829,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A robust & multipurpose Graph object for JavaScript & TypeScript.",
+                "homepage": "https://graphology.github.io",
                 "id": 66482976,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-21T07:58:52Z",
+                "open_issues": 89,
                 "owner": "graphology",
                 "repo": "graphology",
-                "stars": 1735
+                "stars": 1735,
+                "topics": [
+                  "graph"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -495,24 +857,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a ui for behave-graph using react-flow",
+                    "homepage": null,
                     "id": 521275215,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-11-10T22:33:01Z",
+                    "open_issues": 6,
                     "owner": "beeglebug",
                     "repo": "behave-flow",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:20:33.220Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH",
+                "homepage": null,
                 "id": 506333694,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-29T14:50:51Z",
+                "open_issues": 23,
                 "owner": "bhouston",
                 "repo": "behave-graph",
-                "stars": 339
+                "stars": 339,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -530,12 +902,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+                "homepage": "https://mermaid.ai/open-source/",
                 "id": 26066727,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:19:25Z",
+                "open_issues": 1751,
                 "owner": "mermaid-js",
                 "repo": "mermaid",
-                "stars": 89974
+                "stars": 89974,
+                "topics": [
+                  "diagrams",
+                  "diagrams-as-code",
+                  "documentation",
+                  "flowchart",
+                  "javascript",
+                  "mindmap",
+                  "typescript",
+                  "uml-diagrams"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -546,12 +932,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extract logic from your apps with a user-friendly node editor powered by React.",
+                "homepage": "https://flume.dev",
                 "id": 244108214,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-12T05:59:49Z",
+                "open_issues": 91,
                 "owner": "chrisjpatty",
                 "repo": "flume",
-                "stars": 1627
+                "stars": 1627,
+                "topics": [
+                  "flume",
+                  "javascript",
+                  "node",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -562,12 +958,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extensible text-to-diagrams library that works in both browser and node.js",
+                "homepage": "https://pintorajs.vercel.app",
                 "id": 366950533,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:12:33Z",
+                "open_issues": 41,
                 "owner": "hikerpig",
                 "repo": "pintora",
-                "stars": 1284
+                "stars": 1284,
+                "topics": [
+                  "diagram",
+                  "diagram-as-code",
+                  "mermaidjs"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -578,12 +983,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "quick and easy text-based ERD editor with drag and drop visualization + code generator for migration, query, typescript types and orm entity",
+                "homepage": "https://erd.surge.sh",
                 "id": 393846350,
                 "language": "TypeScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-11T07:01:30Z",
+                "open_issues": 1,
                 "owner": "beenotung",
                 "repo": "quick-erd",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "drag-and-drop",
+                  "erd",
+                  "text-based"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -607,12 +1021,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node Editor built using Dear ImGui",
+                "homepage": null,
                 "id": 113756383,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-03-29T08:34:57Z",
+                "open_issues": 119,
                 "owner": "thedmd",
                 "repo": "imgui-node-editor",
-                "stars": 4497
+                "stars": 4497,
+                "topics": [
+                  "blueprint",
+                  "blueprints",
+                  "dear-imgui",
+                  "game-development",
+                  "gamedev",
+                  "imgui",
+                  "immediate-gui",
+                  "middleware",
+                  "node-editor"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -623,12 +1052,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qt Node Editor. Dataflow programming framework",
+                "homepage": null,
                 "id": 55835846,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-31T16:56:51Z",
+                "open_issues": 85,
                 "owner": "paceholder",
                 "repo": "nodeeditor",
-                "stars": 3686
+                "stars": 3686,
+                "topics": [
+                  "cpp",
+                  "dataflow-programming",
+                  "graph",
+                  "model-view",
+                  "qt5",
+                  "qt6"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -639,12 +1080,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small, dependency-free node editor for dear imgui",
+                "homepage": null,
                 "id": 149870661,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-13T10:07:48Z",
+                "open_issues": 61,
                 "owner": "Nelarius",
                 "repo": "imnodes",
-                "stars": 2481
+                "stars": 2481,
+                "topics": [
+                  "cpp",
+                  "gamedev",
+                  "imgui",
+                  "node-editor",
+                  "tool",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -666,12 +1119,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highly performant and modular controls for node-based editors designed for data-binding and MVVM.",
+            "homepage": "https://miroiu.github.io/nodify",
             "id": 290815813,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-06-10T15:22:38Z",
+            "open_issues": 33,
             "owner": "miroiu",
             "repo": "nodify",
-            "stars": 1980
+            "stars": 1980,
+            "topics": [
+              "calculator",
+              "controls",
+              "editor",
+              "flow-based-programming",
+              "good-first-issue",
+              "graph",
+              "graph-control",
+              "infinite-canvas",
+              "mvvm",
+              "net6",
+              "node-editor",
+              "node-graph",
+              "node-network",
+              "panning",
+              "state-machine",
+              "visual-programming",
+              "vpl",
+              "wpf",
+              "zooming"
+            ]
           },
           "first_seen": "2026-08-28T05:20:33.220Z"
         },
@@ -682,12 +1160,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully customizable and extensible all-purpose diagrams library for Blazor",
+            "homepage": "https://blazor-diagrams.zhaytam.com",
             "id": 267705325,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-03-02T02:07:04Z",
+            "open_issues": 125,
             "owner": "Blazor-Diagrams",
             "repo": "Blazor.Diagrams",
-            "stars": 1416
+            "stars": 1416,
+            "topics": [
+              "blazor",
+              "customization",
+              "diagramming-library",
+              "diagrams",
+              "drag",
+              "extensibility",
+              "modular",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T05:20:33.220Z"
         },
@@ -698,12 +1190,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C# library with a WPF node editor component based on ReactiveUI",
+            "homepage": null,
             "id": 115327895,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-14T01:12:59Z",
+            "open_issues": 21,
             "owner": "Wouterdek",
             "repo": "NodeNetwork",
-            "stars": 959
+            "stars": 959,
+            "topics": [
+              "csharp",
+              "node-editor",
+              "reactiveui",
+              "wpf",
+              "wpf-controls"
+            ]
           },
           "first_seen": "2026-08-28T05:20:33.220Z"
         },
@@ -714,12 +1217,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一款基于.Net WinForm的节点编辑器 纯GDI+绘制 使用方式非常简洁 提供了丰富的属性以及事件 可以非常方便的完成节点之间数据的交互及通知 大量的虚函数供开发者重写具有很高的自由性",
+            "homepage": null,
             "id": 327223345,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-10T07:19:59Z",
+            "open_issues": 22,
             "owner": "DebugST",
             "repo": "STNodeEditor",
-            "stars": 886
+            "stars": 886,
+            "topics": [
+              "control",
+              "csharp",
+              "dotnet",
+              "gdiplus",
+              "nodeeditor",
+              "winfrom"
+            ]
           },
           "first_seen": "2026-08-28T05:20:33.220Z"
         }
@@ -736,12 +1251,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customizable egui node-graph library",
+            "homepage": "https://crates.io/crates/egui-snarl",
             "id": 670682127,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T12:42:08Z",
+            "open_issues": 43,
             "owner": "zakarumych",
             "repo": "egui-snarl",
-            "stars": 589
+            "stars": 589,
+            "topics": [
+              "egui",
+              "node-graphs",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T05:20:33.220Z"
         }
@@ -758,12 +1282,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generic node graph editor",
+            "homepage": "https://www.audiokit.io/Flow/",
             "id": 530761253,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-04-24T05:28:36Z",
+            "open_issues": 6,
             "owner": "AudioKit",
             "repo": "Flow",
-            "stars": 400
+            "stars": 400,
+            "topics": [
+              "node",
+              "signal-flow",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T05:20:33.220Z"
         }
@@ -782,12 +1315,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+                "homepage": "https://d2lang.com",
                 "id": 533087958,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-29T02:36:30Z",
+                "open_issues": 546,
                 "owner": "d2lang",
                 "repo": "d2",
-                "stars": 25094
+                "stars": 25094,
+                "topics": [
+                  "developer-tools",
+                  "diagramming",
+                  "diagrams",
+                  "go",
+                  "golang",
+                  "software-architecture",
+                  "text-to-diagram"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -811,12 +1357,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open-source communication infrastructure for agents and products",
+                "homepage": "https://go.novu.co/github",
                 "id": 400215964,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:16:44Z",
+                "open_issues": 104,
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 39680
+                "stars": 39680,
+                "topics": [
+                  "agents",
+                  "communication",
+                  "email",
+                  "inbox",
+                  "infrastructure",
+                  "nodejs",
+                  "notification-center",
+                  "notifications",
+                  "novu",
+                  "push-notifications",
+                  "react",
+                  "reactjs",
+                  "sms",
+                  "transactional",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -827,12 +1394,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.",
+                "homepage": "https://concourse-ci.org",
                 "id": 18950460,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T01:50:14Z",
+                "open_issues": 78,
                 "owner": "concourse",
                 "repo": "concourse",
-                "stars": 7893
+                "stars": 7893,
+                "topics": [
+                  "ci",
+                  "ci-cd",
+                  "concourse",
+                  "containerd",
+                  "containers",
+                  "continuous-delivery",
+                  "continuous-integration",
+                  "elm",
+                  "go",
+                  "pipelines",
+                  "runc"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -843,12 +1427,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as Airbyte, dbt, or Great Expectations together in one intuitive interface built with React Flow. In addition we provide third-party data into data science models and products with a focus on geospatial data.  Currently, the following data connectors are available worldwide: a) High-resolution demographics data b) Point of Interests from Open Street Map c) Google Popular Times",
+                "homepage": "https://kuwala.io",
                 "id": 355909605,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-10T09:00:13Z",
+                "open_issues": 22,
                 "owner": "kuwala-io",
                 "repo": "kuwala",
-                "stars": 808
+                "stars": 808,
+                "topics": [
+                  "admin-boundaries",
+                  "data",
+                  "data-integration",
+                  "data-science",
+                  "dbt",
+                  "elt",
+                  "google-trends",
+                  "jupyter",
+                  "kuwala",
+                  "no-code",
+                  "open-data",
+                  "open-source",
+                  "population",
+                  "postgres",
+                  "pyspark",
+                  "python",
+                  "react",
+                  "react-flow",
+                  "scraping",
+                  "spatial-analysis"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -859,12 +1469,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TRACARDI is a new HOME for your customer data. TRACARDI is an Composable API-first solution for any company that need inexpensive CDP to intergrate with. ",
+                "homepage": "https://www.tracardi.com",
                 "id": 353967911,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-08T06:11:51Z",
+                "open_issues": 91,
                 "owner": "Tracardi",
                 "repo": "tracardi",
-                "stars": 655
+                "stars": 655,
+                "topics": [
+                  "api-first",
+                  "cdp",
+                  "customer",
+                  "customer-data-platform",
+                  "e-commerce",
+                  "elastic-search",
+                  "hacktoberfest",
+                  "headless",
+                  "open-source",
+                  "platform",
+                  "python",
+                  "tracardi",
+                  "unomi",
+                  "user-profile",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -875,12 +1506,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Create blockchain-ready document workflows, own your data.  NOTICE: Looking for maintainer. ",
+                "homepage": "https://proxeus.org",
                 "id": 202517370,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-30T16:27:45Z",
+                "open_issues": 55,
                 "owner": "ProxeusApp",
                 "repo": "proxeus-core",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "dapps",
+                  "golang",
+                  "hacktoberfest",
+                  "node",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -898,12 +1540,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+                "homepage": "https://www.comfy.org/",
                 "id": 589831718,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-29T00:43:25Z",
+                "open_issues": 4731,
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 130483
+                "stars": 130495,
+                "topics": [
+                  "ai",
+                  "comfy",
+                  "comfyui",
+                  "python",
+                  "pytorch",
+                  "stable-diffusion"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -914,12 +1568,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualizer for neural network, deep learning and machine learning models",
+                "homepage": "https://netron.app",
                 "id": 1198539,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:15:34Z",
+                "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33420
+                "stars": 33421,
+                "topics": [
+                  "ai",
+                  "coreml",
+                  "deep-learning",
+                  "deeplearning",
+                  "keras",
+                  "machine-learning",
+                  "machinelearning",
+                  "ml",
+                  "neural-network",
+                  "numpy",
+                  "onnx",
+                  "pytorch",
+                  "safetensors",
+                  "tensorflow",
+                  "tensorflow-lite",
+                  "visualizer"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -937,12 +1613,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.",
+                "homepage": "https://jsoncrack.com/",
                 "id": 453717720,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T17:35:36Z",
+                "open_issues": 39,
                 "owner": "AykutSarac",
                 "repo": "jsoncrack.com",
-                "stars": 44344
+                "stars": 44344,
+                "topics": [
+                  "csv",
+                  "diagrams",
+                  "graph",
+                  "json",
+                  "nextjs",
+                  "react",
+                  "tool",
+                  "visualization",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -953,12 +1644,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Low-code programming for event-driven applications",
+                "homepage": "http://nodered.org",
                 "id": 12618379,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T08:26:32Z",
+                "open_issues": 324,
                 "owner": "node-red",
                 "repo": "node-red",
-                "stars": 23596
+                "stars": 23596,
+                "topics": [
+                  "flow-based-programming",
+                  "javascript",
+                  "low-code",
+                  "node-red",
+                  "openjs-foundation",
+                  "visual-programming"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -976,12 +1679,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+                "homepage": "https://www.comfy.org/",
                 "id": 589831718,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-29T00:43:25Z",
+                "open_issues": 4731,
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 130483
+                "stars": 130495,
+                "topics": [
+                  "ai",
+                  "comfy",
+                  "comfyui",
+                  "python",
+                  "pytorch",
+                  "stable-diffusion"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -992,12 +1707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.",
+                "homepage": "https://chaiNNer.app",
                 "id": 404144554,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-31T20:27:38Z",
+                "open_issues": 299,
                 "owner": "chaiNNer-org",
                 "repo": "chaiNNer",
-                "stars": 5998
+                "stars": 5998,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -1008,12 +1728,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Graphical Programming for Computational Design and Automation",
+                "homepage": "https://dynamobim.org",
                 "id": 3395179,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T22:48:18Z",
+                "open_issues": 212,
                 "owner": "DynamoDS",
                 "repo": "Dynamo",
-                "stars": 2016
+                "stars": 2016,
+                "topics": [
+                  "automation",
+                  "bim",
+                  "dynamo",
+                  "dynamo-api",
+                  "programmers",
+                  "revit",
+                  "visualprogramming"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -1024,12 +1757,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental node-based software for procedural content generation",
+                "homepage": null,
                 "id": 235296396,
                 "language": "GDScript",
+                "license": "MIT",
                 "last_commit": "2023-11-23T00:33:30Z",
+                "open_issues": 31,
                 "owner": "protongraph",
                 "repo": "protongraph",
-                "stars": 1734
+                "stars": 1734,
+                "topics": [
+                  "game-development",
+                  "godot-engine",
+                  "node-graph",
+                  "standalone"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -1040,12 +1783,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime",
+                "homepage": "https://trello.com/b/2JiH2Vsp/mixture",
                 "id": 181232813,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-08T15:19:55Z",
+                "open_issues": 18,
                 "owner": "alelievr",
                 "repo": "Mixture",
-                "stars": 1360
+                "stars": 1360,
+                "topics": [
+                  "graphics-programming",
+                  "node-editor",
+                  "procedural-generation",
+                  "texture-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -1056,12 +1809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gaffer is a node-based application for lookdev, lighting and automation",
+                "homepage": "http://www.gafferhq.org",
                 "id": 9043124,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T23:22:08Z",
+                "open_issues": 361,
                 "owner": "GafferHQ",
                 "repo": "gaffer",
-                "stars": 1089
+                "stars": 1089,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -1072,12 +1830,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "node-based WebGL design tool",
+                "homepage": "https://polygonjs.com",
                 "id": 230947317,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T13:35:40Z",
+                "open_issues": 11,
                 "owner": "polygonjs",
                 "repo": "polygonjs",
-                "stars": 812
+                "stars": 812,
+                "topics": [
+                  "3d",
+                  "3d-engine",
+                  "animation",
+                  "computer-graphics",
+                  "creative-coding",
+                  "geometry-processing",
+                  "glsl",
+                  "javascript",
+                  "nocode",
+                  "node-based",
+                  "procedural",
+                  "procedural-generation",
+                  "rendering",
+                  "tech-art",
+                  "threejs",
+                  "visual-programming",
+                  "webgl",
+                  "webgl-library"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -1088,12 +1870,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-based data application for visualization and generative design",
+                "homepage": "https://www.nodebox.net/",
                 "id": 125893,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-13T19:02:49Z",
+                "open_issues": 175,
                 "owner": "nodebox",
                 "repo": "nodebox",
-                "stars": 790
+                "stars": 790,
+                "topics": [
+                  "datavisualization",
+                  "generative-art",
+                  "graphics",
+                  "nodebox"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -1104,12 +1896,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Node-based image editor with GPU-acceleration.",
+                "homepage": null,
                 "id": 292248527,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-06T20:26:10Z",
+                "open_issues": 33,
                 "owner": "ttddee",
                 "repo": "Cascade",
-                "stars": 763
+                "stars": 763,
+                "topics": [
+                  "gpu-acceleration",
+                  "image-editor",
+                  "node-based",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -1127,12 +1929,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ossia score, an interactive sequencer for the intermedia arts",
+                "homepage": "https://ossia.io",
                 "id": 13586541,
                 "language": "C++",
-                "last_commit": "2026-08-29T02:46:35Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:25:08Z",
+                "open_issues": 489,
                 "owner": "ossia",
                 "repo": "score",
-                "stars": 2056
+                "stars": 2056,
+                "topics": [
+                  "art",
+                  "creative-coding",
+                  "digital-art",
+                  "hacktoberfest",
+                  "interactive",
+                  "intermedia",
+                  "media-art",
+                  "midi",
+                  "open-sound-control",
+                  "open-source",
+                  "osc",
+                  "osc-messages",
+                  "qt",
+                  "sequencer"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -1143,12 +1965,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A powerful realtime node-based audio synthesizer.",
+                "homepage": null,
                 "id": 113033869,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-09-27T03:38:57Z",
+                "open_issues": 37,
                 "owner": "monadgroup",
                 "repo": "axiom",
-                "stars": 703
+                "stars": 703,
+                "topics": [
+                  "c-plus-plus",
+                  "demoscene",
+                  "dsp",
+                  "llvm",
+                  "rust",
+                  "synthesizer",
+                  "vst"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -1166,12 +2001,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flow-based programming for JavaScript",
+                "homepage": "https://noflojs.org/",
                 "id": 1853010,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-05T18:09:44Z",
+                "open_issues": 29,
                 "owner": "noflo",
                 "repo": "noflo",
-                "stars": 3552
+                "stars": 3552,
+                "topics": [
+                  "etl-framework",
+                  "fbp",
+                  "flow-based-programming",
+                  "nocode",
+                  "noflo"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -1182,12 +2028,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual scripting framework for python",
+                "homepage": null,
                 "id": 116792233,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-02T11:08:15Z",
+                "open_issues": 22,
                 "owner": "pedroCabrera",
                 "repo": "PyFlow",
-                "stars": 3198
+                "stars": 3198,
+                "topics": [
+                  "dataflow-programming",
+                  "framework",
+                  "pyflow",
+                  "pyside2",
+                  "python",
+                  "qt",
+                  "subgraphs"
+                ]
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             }
@@ -1201,15 +2060,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:09:06.543Z",
+    "last_updated": "2026-08-29T04:19:30.582Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list with resources about node-based UIs",
+      "homepage": null,
       "id": 565900522,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-06-29T08:11:39Z",
+      "open_issues": 26,
       "owner": "xyflow",
       "repo": "awesome-node-based-uis",
-      "stars": 3663
+      "stars": 3663,
+      "topics": [
+        "awesome-list",
+        "etl",
+        "node-based-ui",
+        "visual-programming",
+        "workflow-editor"
+      ]
     },
     "original_repository_sha": "90f4f155f1aef9e805ac177b23bbf971853d10aa",
     "enhanced_repository": "enhansome/enhansome-node-based-uis",
