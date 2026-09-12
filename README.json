@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T15:18:27Z",
-                "open_issues": 139,
+                "open_issues": 140,
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38347,
+                "stars": 38350,
                 "topics": [
                   "flowchart",
                   "graph",
@@ -51,10 +51,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T15:18:27Z",
-                "open_issues": 139,
+                "open_issues": 140,
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38347,
+                "stars": 38350,
                 "topics": [
                   "flowchart",
                   "graph",
@@ -87,7 +87,7 @@
                 "open_issues": 14,
                 "owner": "retejs",
                 "repo": "rete",
-                "stars": 12244,
+                "stars": 12248,
                 "topics": [
                   "dataflow-programming",
                   "flow-based-programming",
@@ -115,7 +115,7 @@
                 "open_issues": 15,
                 "owner": "jacomyal",
                 "repo": "sigma.js",
-                "stars": 12162,
+                "stars": 12164,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -144,7 +144,7 @@
                 "open_issues": 59,
                 "owner": "alyssaxuu",
                 "repo": "flowy",
-                "stars": 12129,
+                "stars": 12130,
                 "topics": [
                   "diagrams",
                   "drag-and-drop",
@@ -176,7 +176,7 @@
                 "open_issues": 146,
                 "owner": "jagenjo",
                 "repo": "litegraph.js",
-                "stars": 8133,
+                "stars": 8134,
                 "topics": [
                   "blueprints",
                   "canvas2d",
@@ -212,7 +212,7 @@
                 "open_issues": 19,
                 "owner": "bcakmakoglu",
                 "repo": "vue-flow",
-                "stars": 6842,
+                "stars": 6843,
                 "topics": [
                   "diagrams",
                   "flow",
@@ -453,7 +453,7 @@
                 "open_issues": 1,
                 "owner": "nocode-js",
                 "repo": "sequential-workflow-designer",
-                "stars": 1469,
+                "stars": 1470,
                 "topics": [
                   "agent-builder",
                   "agentflow",
@@ -494,7 +494,7 @@
                 "open_issues": 111,
                 "owner": "swimlane",
                 "repo": "ngx-graph",
-                "stars": 995,
+                "stars": 996,
                 "topics": [
                   "angular",
                   "angular2",
@@ -520,7 +520,7 @@
                 "id": 185778964,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T17:23:43Z",
+                "last_commit": "2026-09-12T11:05:18Z",
                 "open_issues": 68,
                 "owner": "kedro-org",
                 "repo": "kedro-viz",
@@ -617,7 +617,7 @@
                 "id": 729429259,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T10:01:09Z",
+                "last_commit": "2026-09-12T12:52:36Z",
                 "open_issues": 33,
                 "owner": "artem-mangilev",
                 "repo": "ngx-vflow",
@@ -803,27 +803,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "graphlib",
-              "description": "Helpers for directed graphs in JS",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A directed multi-graph library for JavaScript",
-                "homepage": null,
-                "id": 12338026,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-10T02:51:34Z",
-                "open_issues": 34,
-                "owner": "dagrejs",
-                "repo": "graphlib",
-                "stars": 1744,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:20:33.220Z"
-            },
-            {
-              "node_type": "item",
               "title": "graphology",
               "description": "Utilities and algorithms for all kinds of graphs",
               "children": [],
@@ -838,10 +817,31 @@
                 "open_issues": 87,
                 "owner": "graphology",
                 "repo": "graphology",
-                "stars": 1743,
+                "stars": 1744,
                 "topics": [
                   "graph"
                 ]
+              },
+              "first_seen": "2026-08-28T05:20:33.220Z"
+            },
+            {
+              "node_type": "item",
+              "title": "graphlib",
+              "description": "Helpers for directed graphs in JS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A directed multi-graph library for JavaScript",
+                "homepage": null,
+                "id": 12338026,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-10T02:51:34Z",
+                "open_issues": 34,
+                "owner": "dagrejs",
+                "repo": "graphlib",
+                "stars": 1743,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
             },
@@ -907,11 +907,11 @@
                 "id": 26066727,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T14:45:25Z",
-                "open_issues": 1784,
+                "last_commit": "2026-09-12T14:55:44Z",
+                "open_issues": 1787,
                 "owner": "mermaid-js",
                 "repo": "mermaid",
-                "stars": 90209,
+                "stars": 90214,
                 "topics": [
                   "diagrams",
                   "diagrams-as-code",
@@ -1061,7 +1061,7 @@
                 "open_issues": 84,
                 "owner": "paceholder",
                 "repo": "nodeeditor",
-                "stars": 3690,
+                "stars": 3692,
                 "topics": [
                   "cpp",
                   "dataflow-programming",
@@ -1089,7 +1089,7 @@
                 "open_issues": 61,
                 "owner": "Nelarius",
                 "repo": "imnodes",
-                "stars": 2486,
+                "stars": 2487,
                 "topics": [
                   "cpp",
                   "gamedev",
@@ -1128,7 +1128,7 @@
             "open_issues": 33,
             "owner": "miroiu",
             "repo": "nodify",
-            "stars": 1991,
+            "stars": 1992,
             "topics": [
               "calculator",
               "controls",
@@ -1199,7 +1199,7 @@
             "open_issues": 21,
             "owner": "Wouterdek",
             "repo": "NodeNetwork",
-            "stars": 961,
+            "stars": 962,
             "topics": [
               "csharp",
               "node-editor",
@@ -1260,7 +1260,7 @@
             "open_issues": 43,
             "owner": "zakarumych",
             "repo": "egui-snarl",
-            "stars": 592,
+            "stars": 593,
             "topics": [
               "egui",
               "node-graphs",
@@ -1320,11 +1320,11 @@
                 "id": 533087958,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-11T23:11:24Z",
-                "open_issues": 533,
+                "last_commit": "2026-09-12T19:33:31Z",
+                "open_issues": 525,
                 "owner": "d2lang",
                 "repo": "d2",
-                "stars": 25380,
+                "stars": 25400,
                 "topics": [
                   "developer-tools",
                   "diagramming",
@@ -1362,11 +1362,11 @@
                 "id": 400215964,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T17:40:04Z",
-                "open_issues": 105,
+                "last_commit": "2026-09-12T06:16:33Z",
+                "open_issues": 106,
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 39969,
+                "stars": 39982,
                 "topics": [
                   "agents",
                   "communication",
@@ -1403,7 +1403,7 @@
                 "open_issues": 83,
                 "owner": "concourse",
                 "repo": "concourse",
-                "stars": 7898,
+                "stars": 7899,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -1545,11 +1545,11 @@
                 "id": 589831718,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T22:53:55Z",
-                "open_issues": 4864,
+                "last_commit": "2026-09-12T22:51:02Z",
+                "open_issues": 4869,
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 132592,
+                "stars": 132781,
                 "topics": [
                   "ai",
                   "comfy",
@@ -1573,11 +1573,11 @@
                 "id": 1198539,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T19:58:11Z",
+                "last_commit": "2026-09-12T17:35:02Z",
                 "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33473,
+                "stars": 33475,
                 "topics": [
                   "ai",
                   "coreml",
@@ -1622,7 +1622,7 @@
                 "open_issues": 44,
                 "owner": "AykutSarac",
                 "repo": "jsoncrack.com",
-                "stars": 44395,
+                "stars": 44397,
                 "topics": [
                   "csv",
                   "diagrams",
@@ -1650,10 +1650,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T10:34:12Z",
-                "open_issues": 330,
+                "open_issues": 334,
                 "owner": "node-red",
                 "repo": "node-red",
-                "stars": 23645,
+                "stars": 23648,
                 "topics": [
                   "flow-based-programming",
                   "javascript",
@@ -1684,11 +1684,11 @@
                 "id": 589831718,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T22:53:55Z",
-                "open_issues": 4864,
+                "last_commit": "2026-09-12T22:51:02Z",
+                "open_issues": 4869,
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 132592,
+                "stars": 132781,
                 "topics": [
                   "ai",
                   "comfy",
@@ -1814,11 +1814,11 @@
                 "id": 9043124,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-11T03:18:35Z",
+                "last_commit": "2026-09-12T02:07:30Z",
                 "open_issues": 365,
                 "owner": "GafferHQ",
                 "repo": "gaffer",
-                "stars": 1091,
+                "stars": 1092,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
@@ -1934,11 +1934,11 @@
                 "id": 13586541,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T10:54:57Z",
+                "last_commit": "2026-09-12T18:47:50Z",
                 "open_issues": 465,
                 "owner": "ossia",
                 "repo": "score",
-                "stars": 2060,
+                "stars": 2062,
                 "topics": [
                   "art",
                   "creative-coding",
@@ -2037,7 +2037,7 @@
                 "open_issues": 21,
                 "owner": "pedroCabrera",
                 "repo": "PyFlow",
-                "stars": 3197,
+                "stars": 3198,
                 "topics": [
                   "dataflow-programming",
                   "framework",
@@ -2060,7 +2060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:12:56.643Z",
+    "last_updated": "2026-09-12T23:00:18.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list with resources about node-based UIs",
