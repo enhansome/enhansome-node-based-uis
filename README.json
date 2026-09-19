@@ -21,7 +21,7 @@
                 "open_issues": 148,
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38419,
+                "stars": 38428,
                 "topics": [
                   "flowchart",
                   "graph",
@@ -54,7 +54,7 @@
                 "open_issues": 148,
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38419,
+                "stars": 38428,
                 "topics": [
                   "flowchart",
                   "graph",
@@ -87,7 +87,7 @@
                 "open_issues": 12,
                 "owner": "retejs",
                 "repo": "rete",
-                "stars": 12263,
+                "stars": 12267,
                 "topics": [
                   "dataflow-programming",
                   "flow-based-programming",
@@ -115,7 +115,7 @@
                 "open_issues": 12,
                 "owner": "jacomyal",
                 "repo": "sigma.js",
-                "stars": 12168,
+                "stars": 12169,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -144,7 +144,7 @@
                 "open_issues": 59,
                 "owner": "alyssaxuu",
                 "repo": "flowy",
-                "stars": 12130,
+                "stars": 12131,
                 "topics": [
                   "diagrams",
                   "drag-and-drop",
@@ -176,7 +176,7 @@
                 "open_issues": 146,
                 "owner": "jagenjo",
                 "repo": "litegraph.js",
-                "stars": 8144,
+                "stars": 8147,
                 "topics": [
                   "blueprints",
                   "canvas2d",
@@ -212,7 +212,7 @@
                 "open_issues": 19,
                 "owner": "bcakmakoglu",
                 "repo": "vue-flow",
-                "stars": 6862,
+                "stars": 6865,
                 "topics": [
                   "diagrams",
                   "flow",
@@ -244,7 +244,7 @@
                 "open_issues": 148,
                 "owner": "antvis",
                 "repo": "X6",
-                "stars": 6707,
+                "stars": 6708,
                 "topics": [
                   "antv",
                   "dag",
@@ -280,7 +280,7 @@
                 "open_issues": 171,
                 "owner": "alibaba",
                 "repo": "butterfly",
-                "stars": 4648,
+                "stars": 4649,
                 "topics": [
                   "bpmn",
                   "butterfly",
@@ -319,7 +319,7 @@
                 "open_issues": 63,
                 "owner": "antonioru",
                 "repo": "beautiful-react-diagrams",
-                "stars": 2722,
+                "stars": 2723,
                 "topics": [
                   "diagram",
                   "diagrams",
@@ -348,7 +348,7 @@
                 "open_issues": 91,
                 "owner": "uber",
                 "repo": "react-digraph",
-                "stars": 2642,
+                "stars": 2643,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
@@ -494,7 +494,7 @@
                 "open_issues": 111,
                 "owner": "swimlane",
                 "repo": "ngx-graph",
-                "stars": 996,
+                "stars": 997,
                 "topics": [
                   "angular",
                   "angular2",
@@ -524,7 +524,7 @@
                 "open_issues": 63,
                 "owner": "kedro-org",
                 "repo": "kedro-viz",
-                "stars": 760,
+                "stars": 761,
                 "topics": [
                   "data-visualization",
                   "experiment-tracking",
@@ -672,7 +672,7 @@
                 "open_issues": 7,
                 "owner": "eBay",
                 "repo": "nice-dag",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
@@ -721,7 +721,7 @@
                 "open_issues": 98,
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2770,
+                "stars": 2772,
                 "topics": [
                   "diagram-layout",
                   "graph-layout",
@@ -908,10 +908,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T10:41:27Z",
-                "open_issues": 1785,
+                "open_issues": 1789,
                 "owner": "mermaid-js",
                 "repo": "mermaid",
-                "stars": 90300,
+                "stars": 90306,
                 "topics": [
                   "diagrams",
                   "diagrams-as-code",
@@ -1061,7 +1061,7 @@
                 "open_issues": 84,
                 "owner": "paceholder",
                 "repo": "nodeeditor",
-                "stars": 3696,
+                "stars": 3697,
                 "topics": [
                   "cpp",
                   "dataflow-programming",
@@ -1128,7 +1128,7 @@
             "open_issues": 33,
             "owner": "miroiu",
             "repo": "nodify",
-            "stars": 1993,
+            "stars": 1994,
             "topics": [
               "calculator",
               "controls",
@@ -1199,7 +1199,7 @@
             "open_issues": 21,
             "owner": "Wouterdek",
             "repo": "NodeNetwork",
-            "stars": 962,
+            "stars": 963,
             "topics": [
               "csharp",
               "node-editor",
@@ -1260,7 +1260,7 @@
             "open_issues": 43,
             "owner": "zakarumych",
             "repo": "egui-snarl",
-            "stars": 596,
+            "stars": 597,
             "topics": [
               "egui",
               "node-graphs",
@@ -1324,7 +1324,7 @@
                 "open_issues": 528,
                 "owner": "d2lang",
                 "repo": "d2",
-                "stars": 25461,
+                "stars": 25469,
                 "topics": [
                   "developer-tools",
                   "diagramming",
@@ -1362,11 +1362,11 @@
                 "id": 400215964,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T09:23:55Z",
-                "open_issues": 113,
+                "last_commit": "2026-09-19T06:06:18Z",
+                "open_issues": 114,
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 40012,
+                "stars": 40016,
                 "topics": [
                   "agents",
                   "communication",
@@ -1399,11 +1399,11 @@
                 "id": 18950460,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T22:55:48Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-19T03:23:40Z",
+                "open_issues": 89,
                 "owner": "concourse",
                 "repo": "concourse",
-                "stars": 7901,
+                "stars": 7903,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -1545,11 +1545,11 @@
                 "id": 589831718,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T18:35:40Z",
-                "open_issues": 4894,
+                "last_commit": "2026-09-19T22:44:02Z",
+                "open_issues": 4898,
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 133802,
+                "stars": 133924,
                 "topics": [
                   "ai",
                   "comfy",
@@ -1573,11 +1573,11 @@
                 "id": 1198539,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T16:49:48Z",
+                "last_commit": "2026-09-19T18:49:59Z",
                 "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33494,
+                "stars": 33497,
                 "topics": [
                   "ai",
                   "coreml",
@@ -1622,7 +1622,7 @@
                 "open_issues": 45,
                 "owner": "AykutSarac",
                 "repo": "jsoncrack.com",
-                "stars": 44433,
+                "stars": 44436,
                 "topics": [
                   "csv",
                   "diagrams",
@@ -1650,10 +1650,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T11:58:12Z",
-                "open_issues": 344,
+                "open_issues": 346,
                 "owner": "node-red",
                 "repo": "node-red",
-                "stars": 23669,
+                "stars": 23668,
                 "topics": [
                   "flow-based-programming",
                   "javascript",
@@ -1684,11 +1684,11 @@
                 "id": 589831718,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T18:35:40Z",
-                "open_issues": 4894,
+                "last_commit": "2026-09-19T22:44:02Z",
+                "open_issues": 4898,
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 133802,
+                "stars": 133924,
                 "topics": [
                   "ai",
                   "comfy",
@@ -1712,11 +1712,11 @@
                 "id": 404144554,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T20:38:05Z",
-                "open_issues": 304,
+                "last_commit": "2026-09-19T04:31:16Z",
+                "open_issues": 305,
                 "owner": "chaiNNer-org",
                 "repo": "chaiNNer",
-                "stars": 6022,
+                "stars": 6024,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
@@ -1733,11 +1733,11 @@
                 "id": 3395179,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T22:49:43Z",
+                "last_commit": "2026-09-19T01:14:17Z",
                 "open_issues": 214,
                 "owner": "DynamoDS",
                 "repo": "Dynamo",
-                "stars": 2023,
+                "stars": 2024,
                 "topics": [
                   "automation",
                   "bim",
@@ -1792,7 +1792,7 @@
                 "open_issues": 18,
                 "owner": "alelievr",
                 "repo": "Mixture",
-                "stars": 1361,
+                "stars": 1362,
                 "topics": [
                   "graphics-programming",
                   "node-editor",
@@ -1814,11 +1814,11 @@
                 "id": 9043124,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-18T21:48:06Z",
-                "open_issues": 362,
+                "last_commit": "2026-09-19T03:25:29Z",
+                "open_issues": 363,
                 "owner": "GafferHQ",
                 "repo": "gaffer",
-                "stars": 1094,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:20:33.220Z"
@@ -1934,11 +1934,11 @@
                 "id": 13586541,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T22:38:14Z",
-                "open_issues": 468,
+                "last_commit": "2026-09-19T19:38:53Z",
+                "open_issues": 467,
                 "owner": "ossia",
                 "repo": "score",
-                "stars": 2062,
+                "stars": 2060,
                 "topics": [
                   "art",
                   "creative-coding",
@@ -2060,7 +2060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:15:03.672Z",
+    "last_updated": "2026-09-19T22:57:28.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list with resources about node-based UIs",
