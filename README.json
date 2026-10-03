@@ -721,7 +721,7 @@
                 "open_issues": 98,
                 "owner": "kieler",
                 "repo": "elkjs",
-                "stars": 2798,
+                "stars": 2799,
                 "topics": [
                   "diagram-layout",
                   "graph-layout",
@@ -908,10 +908,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T12:51:28Z",
-                "open_issues": 1834,
+                "open_issues": 1835,
                 "owner": "mermaid-js",
                 "repo": "mermaid",
-                "stars": 90514,
+                "stars": 90515,
                 "topics": [
                   "diagrams",
                   "diagrams-as-code",
@@ -1291,7 +1291,7 @@
             "open_issues": 6,
             "owner": "AudioKit",
             "repo": "Flow",
-            "stars": 401,
+            "stars": 400,
             "topics": [
               "node",
               "signal-flow",
@@ -1324,7 +1324,7 @@
                 "open_issues": 530,
                 "owner": "d2lang",
                 "repo": "d2",
-                "stars": 25556,
+                "stars": 25557,
                 "topics": [
                   "developer-tools",
                   "diagramming",
@@ -1366,7 +1366,7 @@
                 "open_issues": 122,
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 40103,
+                "stars": 40104,
                 "topics": [
                   "agents",
                   "communication",
@@ -1400,7 +1400,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T20:31:46Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "concourse",
                 "repo": "concourse",
                 "stars": 7912,
@@ -1545,11 +1545,11 @@
                 "id": 589831718,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T22:55:10Z",
-                "open_issues": 5033,
+                "last_commit": "2026-10-03T04:28:44Z",
+                "open_issues": 5029,
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 135889,
+                "stars": 135908,
                 "topics": [
                   "ai",
                   "comfy",
@@ -1622,7 +1622,7 @@
                 "open_issues": 46,
                 "owner": "AykutSarac",
                 "repo": "jsoncrack.com",
-                "stars": 44468,
+                "stars": 44469,
                 "topics": [
                   "csv",
                   "diagrams",
@@ -1653,7 +1653,7 @@
                 "open_issues": 358,
                 "owner": "node-red",
                 "repo": "node-red",
-                "stars": 23702,
+                "stars": 23703,
                 "topics": [
                   "flow-based-programming",
                   "javascript",
@@ -1684,11 +1684,11 @@
                 "id": 589831718,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T22:55:10Z",
-                "open_issues": 5033,
+                "last_commit": "2026-10-03T04:28:44Z",
+                "open_issues": 5029,
                 "owner": "Comfy-Org",
                 "repo": "ComfyUI",
-                "stars": 135889,
+                "stars": 135908,
                 "topics": [
                   "ai",
                   "comfy",
@@ -1814,7 +1814,7 @@
                 "id": 9043124,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T10:58:42Z",
+                "last_commit": "2026-10-03T04:03:30Z",
                 "open_issues": 370,
                 "owner": "GafferHQ",
                 "repo": "gaffer",
@@ -2060,7 +2060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:25:54.174Z",
+    "last_updated": "2026-10-03T04:59:20.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list with resources about node-based UIs",
